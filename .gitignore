@@ -1,0 +1,8 @@
+.vs
+.qt*
+*.pro.user
+*.vcxproj
+.qmake*
+Bin
+debug
+release
